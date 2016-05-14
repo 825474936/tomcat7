@@ -2,9 +2,11 @@
 .idea
 *.iml
 /out
-.svn
+.project
+.classpath
 /bin
 /logs
 /.externalToolBuilders
 /.settings
 *.tmp
+.svn
